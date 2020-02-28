@@ -1,6 +1,6 @@
 
 head {
-  font: 'green piloww';
+  font: 'green piloww', Monospace;
   font-size: 20px;
   color: dark rgb(97, 94, 94);
 }
@@ -14,7 +14,7 @@ body {
   h1 {
     color: dark rgb(97, 94, 94);
     text-align: center;
-    font-family: 'Breakfast and Chill' 
+    font-family: 'Lucida console', Monospace;
     font-size: 20px;
   }
   h2{
