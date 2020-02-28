@@ -22,7 +22,7 @@ body {
     text-align: center;
     @font-face{
       font-family: "madeleina-sans-font"
-      src: url "MadeleinaSans-2VY3.ttf"
+      src: url ("MadeleinaSans-2VY3.ttf")
       font-size: 20px;
     }
   
