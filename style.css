@@ -1,11 +1,16 @@
 @font-face{
-  font-family: 'Dkcarteblanche';
-  src: url('fonts/Dkcarteblanche-Dp0m.otf');
+  font-family: 'Cuprum';
+  src: url('fonts/Cuprum-Regular.ttf');
 }
 
 @font-face{
-  font-family: 'MadeleinaSans';
-  src: url('fonts/madeleina-sans-font.zip/MadeleinaSans-2VY3.ttf');
+  font-family: 'CraftyGirls';
+  src: url('fonts/CraftyGirls-Regular.ttf');
+}
+
+@font-face{
+  font-family: 'Economica';
+  src: url('fonts/Economica-Regular.ttf');
 }
 
 head {
@@ -22,12 +27,13 @@ body {
   h1 {
     color: dark rgb(156, 53, 53);
     text-align: center;
-    font-family: 'Dkcarteblanche'
+    font-family: 'Crafty Girls', cursive;
   }
+
   h2{
     color: dark rgb(97, 94, 94);
     text-align: center;
-    font-family: 'MadeleinaSans'
+    font-family: 'Crafty Girls', cursive;
   
   }
   li{
@@ -38,6 +44,18 @@ body {
   }
   
   p {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Economica', sans-serif;
     font-size: 20px;
+  }
+
+  .column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+  }
+  
+  .row:before {
+    content: "";
+    clear: both;
+    display: table;
   }
