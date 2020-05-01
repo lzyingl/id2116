@@ -34,8 +34,24 @@ body {
     color: dark rgb(97, 94, 94);
     text-align: center;
     font-family: 'Crafty Girls', cursive;
-  
+    font-size: 25px
   }
+
+  h3{
+    color: dark rgb(97, 94, 94);
+    text-align: center;
+    font-family: 'Crafty Girls', cursive;
+    font-size: 15px;
+  }
+
+
+  #weeklinks{
+    color: dark rgb(97, 94, 94);
+    text-align: center;
+    font-family: 'Crafty Girls', cursive;
+    text-decoration: none;
+  }
+
   li{
     color: dark rgb(160, 114, 114);
     text-align: center;
