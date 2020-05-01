@@ -47,8 +47,15 @@ body {
 
   h4{
     font-family: 'Economica', sans-serif;
-    font-size: 30px;
+    font-size: 25px;
   }
+
+  h5{
+    color: dark rgb(131, 21, 21);
+    font-family: 'Economica', sans-serif;
+    font-size: 20px; 
+  }
+
 
 
   #weeklinks{
@@ -71,6 +78,7 @@ body {
   }
   
   caption{
+    caption-side: bottom;
     font-family: 'Economica', sans-serif;
     font-size: 20px;
   }
