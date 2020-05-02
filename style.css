@@ -76,6 +76,29 @@ body {
     font-family: 'Economica', sans-serif;
     font-size: 20px;
   }
+
+  a:link{
+    text-decoration: none;
+    color: rgb(132, 143, 138);
+    background-color: rgba(240, 238, 223, 0.76);
+    background-size: 10px;
+   
+  }
+
+  a:visited{
+    text-decoration: none;
+    color: rgb(132, 143, 138);
+  }
+
+  a:hover{
+    text-decoration-color: underline;
+    color:  rgb(94, 102, 98);
+  }
+
+  a:active{
+    text-decoration: underline;
+    color: rgb(94, 102, 98);
+  }
   
   caption{
     caption-side: bottom;
