@@ -94,3 +94,26 @@ body {
     clear: both;
     display: table;
   }
+
+  
+
+  .row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .pc{
+    display: inline-block;
+    margin: 8px;
+  }
+  
+  .demo_image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .demo{
+    display: inline-block;
+    margin: 8px;
+  }
