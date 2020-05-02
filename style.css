@@ -117,3 +117,14 @@ body {
     display: inline-block;
     margin: 8px;
   }
+
+  .renderings{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .bubbles{
+    display: inline-block;
+    margin: 8px;
+  }
