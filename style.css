@@ -132,6 +132,7 @@ border-color:#AEB9B1;
     margin-bottom: 150px;
   }
 
+  
 @font-face{
   font-family: 'Cuprum';
   src: url('fonts/Cuprum-Regular.ttf');
@@ -285,6 +286,27 @@ body {
     display: inline-block;
     margin: 8px;
   }
+
+
+  
+  .week1a{
+    display: inline-block;
+    margin: 8px;
+    margin-left: 40px;
+  }
+
+  .week1b{
+    display: inline-block;
+    margin: 8px;
+    margin-left: 40px;
+ 
+  }
+
+  .week1c{
+    display: inline-block;
+    margin: 8px;
+  }
+
   
   .demo_image{
     display: flex;
