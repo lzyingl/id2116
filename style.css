@@ -133,17 +133,6 @@ border-color:#AEB9B1;
 
   
 @font-face{
-  font-family: 'Cuprum';
-  src: url('fonts/Cuprum-Regular.ttf');
-}
-
-@font-face{
-  font-family: 'CraftyGirls';
-  src: url('fonts/CraftyGirls-Regular.ttf');
-  
-}
-
-@font-face{
   font-family: 'Economica';
   src: url('fonts/Economica-Regular.ttf');
 }
@@ -367,6 +356,18 @@ body {
     margin-left: 40px;
   }
 
+  .week6a{
+    display: inline-block;
+    margin-left: 48px;
+  }
+
+  .demo_day{
+    display: inline-block;
+    margin: 8px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+  }
+
 
   
   .demo_image{
@@ -380,12 +381,7 @@ body {
     margin: 8px;
   }
 
-  .renderings{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-  }
+ 
 
   .bubbles{
     display: inline-block;
