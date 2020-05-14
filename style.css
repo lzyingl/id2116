@@ -214,6 +214,17 @@ body {
     margin-bottom: 20px;
   }
 
+  .profile photo pt2{
+    color: rgb(83, 80, 62);
+    padding: 10px;
+    text-align: center;
+    font-family: 'Economica', sans-serif;
+    font-size: 25px;
+    margin-top: 0px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+  }
+
   .profile photo pt3{
     color: rgb(83, 80, 62);
     padding: 10px;
