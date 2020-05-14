@@ -191,7 +191,7 @@ body {
     color: rgb(83, 80, 62);
     padding: 10px;
     text-align: center;
-    font-family: 'Economica', sans-serif;
+    font-family: 'calibri', sans-serif;
     font-size: 20px;
     margin-top: 0px;
     margin-left: 350px;
@@ -212,6 +212,21 @@ body {
     margin-top: 0px;
     margin-left: 40px;
     margin-bottom: 20px;
+  }
+
+  .profile photo pt3{
+    color: rgb(83, 80, 62);
+    padding: 10px;
+    text-align: center;
+    font-family: 'calibri', sans-serif;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 20px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color:#AEB9B1;
   }
 
 
